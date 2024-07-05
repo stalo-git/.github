@@ -4,7 +4,7 @@
 
 **Social Media:** [@curtastalo](https://instagram.com/curtastalo)
 
-**Email:** [ti@stalo.digital](mailto:ti@stalo.digital)
+**Email:** [git@stalo.digital](mailto:ti@stalo.digital)
 
 ---
 
@@ -29,10 +29,12 @@ Construímos do zero softwares e produtos digitais inovadores que levarão sua e
 ### 🔧 Tecnologias que utilizamos
 
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) Laravel
 
 ---
 
