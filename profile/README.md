@@ -38,7 +38,7 @@ Construímos do zero softwares e produtos digitais inovadores que levarão sua e
 
 #### Tecnologias para Aplicações Científicas
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SimpleCV](https://img.icons8.com/ios-filled/50/000000/code.png) ![Beaglebone](https://img.icons8.com/color/48/000000/beaglebone.png) ![Raspberry](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![Cplex](https://img.icons8.com/ios-filled/50/000000/code.png) ![Gurobi](https://img.icons8.com/ios-filled/50/000000/code.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Raspberry](https://img.icons8.com/color/48/000000/raspberry-pi.png) 
 
 #### DevOps
 
