@@ -42,11 +42,9 @@ Construímos do zero softwares e produtos digitais inovadores que levarão sua e
 
 #### DevOps
 
-![Docker](https://img.icons8.com/color/100/000000/docker.png) ![AWS](https://img.icons8.com/color/100/000000/amazon-web-services.png) ![DigitalOcean](https://img.icons8.com/color/100/000000/digital-ocean.png) ![Bitbucket](https://img.icons8.com/color/100/000000/bitbucket.png) ![Jenkins](https://img.icons8.com/color/100/000000/jenkins.png) 
+![Docker](https://img.icons8.com/color/100/000000/docker.png) ![AWS](https://img.icons8.com/color/100/000000/amazon-web-services.png) ![Bitbucket](https://img.icons8.com/color/100/000000/bitbucket.png) ![Jenkins](https://img.icons8.com/color/100/000000/jenkins.png) 
 
-#### Integrações
 
-![Boleto Simples](https://img.icons8.com/ios-filled/100/000000/boleto.png) ![Protheus](https://img.icons8.com/ios-filled/100/000000/protheus.png) ![RD Station](https://img.icons8.com/ios-filled/100/000000/rd-station.png) ![Google Analytics](https://img.icons8.com/color/100/000000/google-analytics.png) ![Google Adwords](https://img.icons8.com/color/100/000000/google-adwords.png) ![LinkedIn](https://img.icons8.com/color/100/000000/linkedin.png) ![Facebook](https://img.icons8.com/color/100/000000/facebook.png) ![Instagram](https://img.icons8.com/color/100/000000/instagram-new.png) ![Piperun](https://img.icons8.com/ios-filled/100/000000/piperun.png) ![Klipfolio](https://img.icons8.com/ios-filled/100/000000/klipfolio.png) ![Eventials](https://img.icons8.com/ios-filled/100/000000/eventials.png) ![Sendinblue](https://img.icons8.com/color/100/000000/sendinblue.png) ![Power BI](https://img.icons8.com/color/100/000000/power-bi.png) ![Google Data Studio](https://img.icons8.com/color/100/000000/google-data-studio.png) 
 
 ---
 
