@@ -30,64 +30,23 @@ Construímos do zero softwares e produtos digitais inovadores que levarão sua e
 
 #### Web e Mobile
 
-![PHP](https://img.icons8.com/color/48/000000/php.png) PHP 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript 
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript 
-![React](https://img.icons8.com/color/48/000000/react-native.png) React 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js 
-![Python](https://img.icons8.com/color/48/000000/python.png) Python 
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular 
-![Laravel](https://img.icons8.com/color/48/000000/laravel.png) Laravel 
-![Zend](https://img.icons8.com/color/48/000000/zend-framework.png) Zend 
-![Nginx](https://img.icons8.com/color/48/000000/nginx.png) Nginx 
-![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) WordPress 
-![Android](https://img.icons8.com/color/48/000000/android-os.png) Android 
+![PHP](https://img.icons8.com/color/48/000000/php.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) ![Zend](https://img.icons8.com/color/48/000000/zend-framework.png) ![Nginx](https://img.icons8.com/color/48/000000/nginx.png) ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) ![Android](https://img.icons8.com/color/48/000000/android-os.png) 
 
 #### Banco de Dados
 
-![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) MariaDB 
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL 
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL 
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase 
-![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) Oracle 
-![Redis](https://img.icons8.com/color/48/000000/redis.png) Redis 
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB 
+![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![Redis](https://img.icons8.com/color/48/000000/redis.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
 
 #### Tecnologias para Aplicações Científicas
 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++ 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java 
-![Python](https://img.icons8.com/color/48/000000/python.png) Python 
-![SimpleCV](https://img.icons8.com/ios-filled/50/000000/code.png) SimpleCV 
-![Beaglebone](https://img.icons8.com/color/48/000000/beaglebone.png) Beaglebone 
-![Raspberry](https://img.icons8.com/color/48/000000/raspberry-pi.png) Raspberry 
-![Cplex](https://img.icons8.com/ios-filled/50/000000/code.png) Cplex 
-![Gurobi](https://img.icons8.com/ios-filled/50/000000/code.png) Gurobi 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SimpleCV](https://img.icons8.com/ios-filled/50/000000/code.png) ![Beaglebone](https://img.icons8.com/color/48/000000/beaglebone.png) ![Raspberry](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![Cplex](https://img.icons8.com/ios-filled/50/000000/code.png) ![Gurobi](https://img.icons8.com/ios-filled/50/000000/code.png) 
 
 #### DevOps
 
-![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker 
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS 
-![DigitalOcean](https://img.icons8.com/color/48/000000/digital-ocean.png) Digital Ocean 
-![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) Bitbucket 
-![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins 
+![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![DigitalOcean](https://img.icons8.com/color/48/000000/digital-ocean.png) ![Bitbucket](https://img.icons8.com/color/48/000000/bitbucket.png) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
 
 #### Integrações
 
-![Boleto Simples](https://img.icons8.com/ios-filled/50/000000/boleto.png) Boleto Simples 
-![Protheus](https://img.icons8.com/ios-filled/50/000000/protheus.png) Protheus 
-![RD Station](https://img.icons8.com/ios-filled/50/000000/rd-station.png) RD Station 
-![Google Analytics](https://img.icons8.com/color/48/000000/google-analytics.png) Google Analytics 
-![Google Adwords](https://img.icons8.com/color/48/000000/google-adwords.png) Google Adwords 
-![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) LinkedIn 
-![Facebook](https://img.icons8.com/color/48/000000/facebook.png) Facebook 
-![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) Instagram 
-![Piperun](https://img.icons8.com/ios-filled/50/000000/piperun.png) Piperun 
-![Klipfolio](https://img.icons8.com/ios-filled/50/000000/klipfolio.png) Klipfolio 
-![Eventials](https://img.icons8.com/ios-filled/50/000000/eventials.png) Eventials 
-![Sendinblue](https://img.icons8.com/color/48/000000/sendinblue.png) Sendinblue 
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI 
-![Google Data Studio](https://img.icons8.com/color/48/000000/google-data-studio.png) Google Data Studio 
+![Boleto Simples](https://img.icons8.com/ios-filled/50/000000/boleto.png) ![Protheus](https://img.icons8.com/ios-filled/50/000000/protheus.png) ![RD Station](https://img.icons8.com/ios-filled/50/000000/rd-station.png) ![Google Analytics](https://img.icons8.com/color/48/000000/google-analytics.png) ![Google Adwords](https://img.icons8.com/color/48/000000/google-adwords.png) ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) ![Facebook](https://img.icons8.com/color/48/000000/facebook.png) ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) ![Piperun](https://img.icons8.com/ios-filled/50/000000/piperun.png) ![Klipfolio](https://img.icons8.com/ios-filled/50/000000/klipfolio.png) ![Eventials](https://img.icons8.com/ios-filled/50/000000/eventials.png) ![Sendinblue](https://img.icons8.com/color/48/000000/sendinblue.png) ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) ![Google Data Studio](https://img.icons8.com/color/48/000000/google-data-studio.png) 
 
 ---
 
