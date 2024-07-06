@@ -34,7 +34,7 @@ Construímos do zero softwares e produtos digitais inovadores que levarão sua e
 
 #### Banco de Dados
 
-![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![Redis](https://img.icons8.com/color/48/000000/redis.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
+![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) [![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://img.icons8.com/?size=100&id=xF33DQdGyLDz&format=png&color=000000) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![Redis](https://img.icons8.com/color/48/000000/redis.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
 
 #### Tecnologias para Aplicações Científicas
 
